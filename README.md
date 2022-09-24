@@ -40,6 +40,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
   - [React Native Libraries](#react-native-libraries)
+  - [React Native Videos](#react-native-videos)
 - [Redux](#redux)
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
@@ -564,6 +565,11 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 - [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
+
+#### React Native Videos
+
+- [React-Native-EU-Conference-2022-Day-1](https://www.youtube.com/watch?v=7QeINTWLUkc)
+- [React-Native-EU-Conference-2022-Day-2](https://www.youtube.com/watch?v=uLicTDG5hSs)
 
 ### Redux
 
